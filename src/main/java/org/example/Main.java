@@ -6,6 +6,8 @@ public class Main {
         System.out.println("Hello, World!");
          System.out.println("Hello, Bangalore");
         System.out.println("Hello, Vijayawada");
+          System.out.println("Hello, Hyderabad");
+        
         
     }
 }
